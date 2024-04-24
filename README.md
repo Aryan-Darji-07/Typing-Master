@@ -27,4 +27,4 @@ This is a simple typing speed test application built using React. With this appl
 5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Live Demo
-[Link to the live demo](#) (Add your live demo link here)
+[Link to the live demo](https://aryan-darji-07.github.io/Typing-Master/)
